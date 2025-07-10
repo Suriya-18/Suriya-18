@@ -1,45 +1,79 @@
-# 👋 Hey, I'm Suriya M!  
+# 👋 Hi, I'm Suriya M!
 
-> *AI Engineer | Problem Solver | Tech Explorer*
-
----
-
-### 💡 About Me
-AI Engineer passionate about coding, innovation, and building intelligent solutions that shape the future.  
-Currently pursuing B.Tech in Artificial Intelligence at SRM Kattankulathur, with hands-on experience in ML, CV, NLP, and Quantum AI.
+🎓 AI Engineer | 🧠 Generative AI & Quantum AI Enthusiast | 💻 Full-Stack ML Developer  
 
 ---
 
-### 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🚀 About Me
+
+I'm currently pursuing my B.Tech in Artificial Intelligence at **SRM Institute of Science and Technology** (CGPA: 9.02).  
+My passion lies in crafting intelligent systems that bridge research and real-world applications using AI, ML, and Quantum Computing.  
+I'm not just a builder of code, but an architect of innovation — constantly exploring the evolving edge of technology.
 
 ---
 
-### 📌 Highlight Projects
+### 🛠️ Technologies & Tools
 
-- 🧠 **MindMate AI** – A bilingual AI-powered mental health assistant using GPT, FastAPI, and React Native.  
-- 🔒 **Biometric Defense with rPPG** – Built face liveness detection with CNN, KLT, and STAPLE tracking, achieving 96.13% accuracy.  
-- 🌱 **Wildlife Monitoring System** – Automated tracking of endangered species using computer vision and sound classification.
+**Languages**: Python (advanced), C/C++, SQL  
+**Deep Learning**: PyTorch, TensorFlow, Keras, HuggingFace, PyTorch Lightning  
+**CV/NLP/GenAI**: OpenCV, EasyOCR, YOLOv8/v11, Vision Transformers, GPT-4, LangChain, GANs, LSTM  
+**Cloud & DevOps**: Google Cloud, AWS, Docker, FastAPI, REST APIs  
+**Frontend/Backend**: React.js, Node.js, SQLite, PostgreSQL, MySQL, JWT  
+**Tools**: Git, ONNX, SciKit-Learn, SpeechRecognition, Three.js
+
+---
+
+### 💼 Experience
+
+**🔹 QUENTANGLE – Quantum AI Intern** *(Jun 2025 – Present)*  
+> Working on trusted node architecture for Quantum Key Distribution (QKD). Converting AI logic into QTPI for secure quantum networks.
+
+**🔹 GOOGLE – GenAI Virtual Internship** *(Oct 2024 – Dec 2024)*  
+> Built GenAI projects using Vertex AI, Gemini, and PaLM. Hands-on with prompt engineering, LLM fine-tuning, vector search, and responsible AI.
+
+**🔹 HYPERVERGE Nexus** *(Feb 2023 – Jun 2024)*  
+> Built an rPPG-based face liveness detection system with 96.13% accuracy.
+
+**🔹 QUENTANGLE – Product Developer** *(Sep 2023 – Apr 2024)*  
+> Created a custom GPT for QTPI language for solving quantum coin toss, QKD, and teleportation problems.
+
+---
+
+### 🧠 Projects
+
+- **🧬 Biometric Defense (rPPG)**: Real vs spoof face detection using CNNs, ROI tracking, and physiological signals  
+- **😊 Real-Time Emotion Recognition**: Live facial emotion detection using TensorFlow & OpenCV  
+- **🧘‍♂️ MindMate AI**: Bilingual mental health assistant with chatbot, mood journal, and therapy support  
+- **🛒 Smart Ration System**: Aadhar-authenticated, real-time stock tracking public distribution platform
 
 ---
 
 ### 🏆 Achievements
-- 🥇 Winner – Quantathon 1.0 (Quantum Track)
-- 💻 Internships – DeepMark (ML Developer), Quentangle (Quantum AI), Hyperverge Nexus AI Cohort
-- 📚 30+ Cloud Badges – Google Cloud, AWS, including Vector Search, Vertex AI, Gemini
+
+- 🥇 **1st Place** – Quantathon 1.0 (Quantum Track)
+- 🥈 **Finalist** – SRM Coding Competition
+- 💡 Project Expo, Ideathon, and AI Skills Challenges participant
+
+---
+
+### 📜 Certifications
+
+- **Google Cloud – GenAI & Responsible AI**  
+- **Oracle OCI Foundations Associate**  
+- **AWS ML Foundations**  
+- **Infosys – Deep Learning**  
+- **Intel – AI in IoT**  
+- **Altair ML Master Cert**, **Android Dev**, **Zscaler**, **Node.js & React.js** (by Bajaj Finserv Health)
 
 ---
 
 ### 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/suriyamurugavel)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Suriya-18r)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Suriya-18r)  
+📧 Email: suriyamurugavel2005@gmail.com
 
 ---
 
-> "I'm not just building code. I'm building the future — one intelligent solution at a time."
+> “I’m not just building algorithms — I’m shaping the future through intelligent, responsible AI.”  
+
