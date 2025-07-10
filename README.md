@@ -7,25 +7,25 @@
 ### 🚀 About Me
 
 I'm currently pursuing my B.Tech in Artificial Intelligence at **SRM Institute of Science and Technology** (CGPA: 9.02).  
-My passion lies in crafting intelligent systems that bridge research and real-world applications using AI, ML, and Quantum Computing.  
-I'm not just a builder of code, but an architect of innovation — constantly exploring the evolving edge of technology.
+
+I see myself not just as a coder, but as an architect of innovation — leveraging AI to solve real-world problems.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
 **Languages**: Python (advanced), C/C++, SQL  
-**Deep Learning**: PyTorch, TensorFlow, Keras, HuggingFace, PyTorch Lightning  
-**CV/NLP/GenAI**: OpenCV, EasyOCR, YOLOv8/v11, Vision Transformers, GPT-4, LangChain, GANs, LSTM  
+**DLFrameworks & Libraries:**:  PyTorch | TensorFlow | Keras | PyTorch Lightning | HuggingFace Transformers |
+ OpenCV | TorchVision | ONNX 
+**NLP &Generative AI**: GPT-4 / Llama | LangChain | Stable Diffusion | GANs | LSTM / Seq2Seq | TTS 
 **Cloud & DevOps**: Google Cloud, AWS, Docker, FastAPI, REST APIs  
-**Frontend/Backend**: React.js, Node.js, SQLite, PostgreSQL, MySQL, JWT  
-**Tools**: Git, ONNX, SciKit-Learn, SpeechRecognition, Three.js
-
+**Data & Databases:**: NumPy, Pandas, SciPy | Scikit-learn | PostgreSQL, MySQL  
+*DevOps/Cloud**: Docker | Git | REST APIs (FastAPI, Flask)
 ---
 
 ### 💼 Experience
 
-**🔹 QUENTANGLE – Quantum AI Intern** *(Jun 2025 – Present)*  
+**🔹 QUENTANGLE - QAssure Consortium led by British Telecommunication** *(Jun 2025 – Present)*  
 > Working on trusted node architecture for Quantum Key Distribution (QKD). Converting AI logic into QTPI for secure quantum networks.
 
 **🔹 GOOGLE – GenAI Virtual Internship** *(Oct 2024 – Dec 2024)*  
@@ -51,25 +51,24 @@ I'm not just a builder of code, but an architect of innovation — constantly ex
 ### 🏆 Achievements
 
 - 🥇 **1st Place** – Quantathon 1.0 (Quantum Track)
-- 🥈 **Finalist** – SRM Coding Competition
+- 🥈 **2nd Round** – SRM Coding Competition
 - 💡 Project Expo, Ideathon, and AI Skills Challenges participant
 
 ---
 
 ### 📜 Certifications
 
-- **Google Cloud – GenAI & Responsible AI**  
-- **Oracle OCI Foundations Associate**  
-- **AWS ML Foundations**  
+- **AWSAcademy– Machine Learning Foundations**  
+- **Oracle Cloud Infrastructure Foundations Associate**  
+- **Altair– Machine Learning Master Certification**  
 - **Infosys – Deep Learning**  
-- **Intel – AI in IoT**  
-- **Altair ML Master Cert**, **Android Dev**, **Zscaler**, **Node.js & React.js** (by Bajaj Finserv Health)
+- **Zscaler- Zero Trust Cloud Security Certification**
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/suriyamurugavel)  
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Suriya-18r)  
 📧 Email: suriyamurugavel2005@gmail.com
 
