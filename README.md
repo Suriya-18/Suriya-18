@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Suriya M!
 
+![Typing Boy](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 🎓 AI Engineer | 🧠 Generative AI & Quantum AI Enthusiast | 💻 Full-Stack ML Developer  
 
 ---
