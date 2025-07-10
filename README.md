@@ -14,13 +14,13 @@ I see myself not just as a coder, but as an architect of innovation — leveragi
 
 ### 🛠️ Technologies & Tools
 
-**Languages**: Python (advanced), C/C++, SQL  
-**DLFrameworks & Libraries:**:  PyTorch | TensorFlow | Keras | PyTorch Lightning | HuggingFace Transformers |
- OpenCV | TorchVision | ONNX 
-**NLP &Generative AI**: GPT-4 / Llama | LangChain | Stable Diffusion | GANs | LSTM / Seq2Seq | TTS 
-**Cloud & DevOps**: Google Cloud, AWS, Docker, FastAPI, REST APIs  
-**Data & Databases:**: NumPy, Pandas, SciPy | Scikit-learn | PostgreSQL, MySQL  
-*DevOps/Cloud**: Docker | Git | REST APIs (FastAPI, Flask)
+- **Languages**: Python (advanced), C/C++, SQL  
+- **Deep Learning**: PyTorch, TensorFlow, Keras, PyTorch Lightning, HuggingFace, ONNX  
+- **Computer Vision**: OpenCV, TorchVision  
+- **NLP & Generative AI**: GPT-4, LLaMA, LangChain, Stable Diffusion, GANs, LSTM/Seq2Seq, TTS  
+- **Data & Databases**: NumPy, Pandas, SciPy, Scikit-learn, PostgreSQL, MySQL  
+- **Cloud & DevOps**: Google Cloud, AWS, Docker, Git, FastAPI, Flask, REST APIs
+
 ---
 
 ### 💼 Experience
