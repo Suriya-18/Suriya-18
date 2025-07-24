@@ -27,7 +27,7 @@ I see myself not just as a coder, but as an architect of innovation — leveragi
 
 ### 💼 Experience
 
-**🔹 QUENTANGLE - QAssure Consortium led by British Telecommunication** *(Jun 2025 – Present)*  
+**🔹 QUENTANGLE - QAssure Consortium led by British Telecommunications** *(Jun 2025 – Present)*  
 > Working on trusted node architecture for Quantum Key Distribution (QKD). Converting AI logic into QTPI for secure quantum networks.
 
 **🔹 GOOGLE – GenAI Virtual Internship** *(Oct 2024 – Dec 2024)*  
