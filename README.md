@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm currently pursuing my B.Tech in Artificial Intelligence at **SRM Institute of Science and Technology** (CGPA: 9.02).  
+I'm currently pursuing my B.Tech in Artificial Intelligence at **SRM Institute of Science and Technology** (CGPA: 9.01).  
 
 I see myself not just as a coder, but as an architect of innovation — leveraging AI to solve real-world problems.
 
