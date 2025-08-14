@@ -62,7 +62,7 @@ I see myself not just as a coder, but as an architect of innovation — leveragi
 ### 📜 Certifications
 
 - **AWSAcademy– Machine Learning Foundations**  
-- **Oracle Cloud Infrastructure Foundations Associate**  
+- **Oracle - SQL on Oracle Cloud**  
 - **Altair– Machine Learning Master Certification**  
 - **Infosys – Deep Learning**  
 - **Zscaler- Zero Trust Cloud Security Certification**
