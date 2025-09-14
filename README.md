@@ -52,9 +52,6 @@ I see myself not just as a coder, but as an architect of innovation — leveragi
 ## 🏆 Achievements
 
 - 🥇 1st Place – Quantathon 1.0, SRM
-- 💻 Distinction in C/C++, SSI Computer Education 
-- 🏅 Awarded for Excellence in Wadhwani Employability Skills Training Program
-- 🚀 Selected for Round 2 among top performers in SRM Coding Competition
 
 
 ---
